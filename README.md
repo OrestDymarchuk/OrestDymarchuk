@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Orest</h1>
+<h1 align="left">Hi 👋, I'm Orest</h1>
 <h3 align="center">A passionate Backend Java Developer</h3>
 
-- 🌱I’m currently learning **Java, Spring, Hibernate**
+<h4 align="left"> My name is Orest and I'm experienced Sales and Customer Support Manager with over 8 years of experience and demonstrated track record in Information Technology and Services.
 
-- 📫 How to reach me **oliverkromvel2016@gmail.com**
+Passionate about data science and back-end development, looking for an opportunity to take a new step and develop my career path in IT. Looking for trainee/intern or junior position.
+</h4>
+
+- 🌍 I'm based in Ukraine
+- 🌱 I’m currently learning **Java, Spring, Hibernate**
+- 🤝  I'm open to collaborating on Interesting projects
+- 📫 You can reach me **oliverkromvel2016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
