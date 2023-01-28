@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Orest</h1>
 <h3 align="left">Backend Java Developer</h3>
 
-<h4 align="left" style="font-weight: lighter"> My name is Orest and I'm experienced Sales and Customer Support Manager with over 8 years of experience and demonstrated track record in Information Technology and Services.
+<p> My name is Orest and I'm experienced Sales and Customer Support Manager with over 8 years of experience and demonstrated track record in Information Technology and Services.
 
 Passionate about data science and back-end development, looking for an opportunity to take a new step and develop my career path in IT. Looking for trainee/intern or junior position.
-</h4>
+</p>
 
 - 🌍 I'm based in Ukraine
 - 🌱 I’m currently learning **Java, Spring, Hibernate**
