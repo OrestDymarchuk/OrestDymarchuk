@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Orest</h1>
-<h3 align="center">A passionate Backend Java Developer from Ukraine</h3>
+<h3 align="center">A passionate Backend Java Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=orestdymarchuk&label=Profile%20views&color=0e75b6&style=flat" alt="orestdymarchuk" /> </p>
-
-- 🌍 I'm based in Ukraine**
-
-- 🌱 I’m currently learning **Java, Spring, Hibernate**
+- 🌱I’m currently learning **Java, Spring, Hibernate**
 
 - 📫 How to reach me **oliverkromvel2016@gmail.com**
 
