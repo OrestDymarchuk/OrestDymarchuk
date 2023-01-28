@@ -3,7 +3,7 @@
 
 <h1 align="left"></h1>
 
-<p> My name is Orest. I have 8+ years of experience in sales and customer support management and demonstrated track record in Information Technology and Services.
+<p> I have 8+ years of experience in sales and customer support management and demonstrated track record in Information Technology and Services.
 
 Passionate about data science and back-end development, looking for an opportunity to take a new step and develop my career path in IT. Looking for trainee/intern or junior position.
 </p>
